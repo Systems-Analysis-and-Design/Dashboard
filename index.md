@@ -3,7 +3,7 @@
 
 
 ## About(项目规划)
-![1](\img\团队会议.png)
+![1](/img/团队会议.png)
 
 ## Team Profile(团队组建)
 
