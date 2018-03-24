@@ -20,6 +20,8 @@
 |15331167   | 李伟杜 | python/java工程师  |
 |15331160   | 李仁杰 | 客户经理、用户体验经理 |
 
+### 沟通渠道：QQ群、微信群
+### kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analysis-and-Design/an-Order-system/projects/1)
 
 ## Investigation(项目前期调研)
 
