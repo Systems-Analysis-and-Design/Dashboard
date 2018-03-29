@@ -4,6 +4,7 @@
 
 ## About(项目规划)
 第一周暂定的项目计划图：
+
 ![1](/img/小组会议.png)
 
 ---
@@ -24,6 +25,7 @@
 |15331160   | 李仁杰 | 客户经理、用户体验经理 |
 
 ### 沟通渠道：QQ群、微信群
+
 ### kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analysis-and-Design/an-Order-system/projects/1)
 
 ---
