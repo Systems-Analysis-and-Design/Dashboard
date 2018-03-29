@@ -6,6 +6,8 @@
 第一周暂定的项目计划图：
 ![1](/img/小组会议.png)
 
+---
+
 ## Team Profile(团队组建)
 
 ### 团队名称： AWM
@@ -24,12 +26,20 @@
 ### 沟通渠道：QQ群、微信群
 ### kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analysis-and-Design/an-Order-system/projects/1)
 
+---
+
 ## Investigation(项目前期调研)
+
+---
 
 ## Vision(项目愿景)
 我们小组的暂定目标是做一个面向小型餐馆的基于web端的带有聊天室功能的餐厅点餐系统，能为顾客点餐和商家管理带来方便，适应快节奏的轻型应用。
 
+---
+
 ## Product Backing(产品特性)
+
+---
 
 ## Meet_recording(阶段会议记录)
 
