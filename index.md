@@ -45,7 +45,19 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 ---
 
-## 六、Meet_recording(阶段会议记录)
+## 六、Requirement specification（需求规格说明）
+
+---
+
+## 七、Design（设计）
+
+---
+
+## 八、生产规范与指南
+
+---
+
+## 九、Meet_recording(阶段会议记录)
 
 #### 1. inception meeting(2018/03/24)
 讨论了项目的具体功能目标，分配了任务和角色，将项目业务以思维导图形式展现，并设计架构分析和编码规范。
@@ -57,5 +69,7 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 #### 3.第一阶段第三次会议（2018/4/2）
 讨论实施项目设计需求文档，进行个人学习报告总结，准备进入第二阶段编码阶段。
 
-## 七、Tech/Work Report(个人学习报告)
+---
+
+## 十、Tech/Work Report(个人学习报告)
 
