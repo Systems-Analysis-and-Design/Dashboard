@@ -31,7 +31,7 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 ---
 
 ## 三、Investigation(项目前期调研)
-[点击此处查看前期调研报告](/posts/%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.md)
+[点击此处查看前期调研报告](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.md)
 
 
 ---
