@@ -2,18 +2,18 @@
 
 
 
-## About(项目规划)
+## 一、About(项目规划)
 第一周暂定的项目计划图：
 
 ![1](/img/小组会议.png)
 
 ---
 
-## Team Profile(团队组建)
+## 二、Team Profile(团队组建)
 
-### 团队名称： AWM
+团队名称： AWM
 
-### 团队成员及角色：
+团队成员及角色：
 
 |学号|姓名|角色|
 |---|---|---|
@@ -24,28 +24,28 @@
 |15331167   | 李伟杜 | python/java工程师  |
 |15331160   | 李仁杰 | 客户经理、用户体验经理 |
 
-### 沟通渠道：QQ群、微信群
+沟通渠道：QQ群、微信群
 
-### kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analysis-and-Design/an-Order-system/projects/1)
+kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analysis-and-Design/an-Order-system/projects/1)
 
 ---
 
-## Investigation(项目前期调研)
+## 三、Investigation(项目前期调研)
 [点击此处查看前期调研报告](/posts/%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.md)
 
 
 ---
 
-## Vision(项目愿景)
+## 四、Vision(项目愿景)
 我们小组的暂定目标是做一个面向小型餐馆的基于web端的带有聊天室功能的餐厅点餐系统，能为顾客点餐和商家管理带来方便，适应快节奏的轻型应用。
 
 ---
 
-## Product Backing(产品特性)
+## 五、Product Backing(产品特性)
 
 ---
 
-## Meet_recording(阶段会议记录)
+## 六、Meet_recording(阶段会议记录)
 
 #### 1. inception meeting(2018/03/24)
 讨论了项目的具体功能目标，分配了任务和角色，将项目业务以思维导图形式展现，并设计架构分析和编码规范。
