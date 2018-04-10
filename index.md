@@ -73,3 +73,6 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 ## 十、Tech/Work Report(个人学习报告)
 
+[15331151-李佳-Docker架构初探及安装](http://tomylijia.com/2018/04/10/system-homework3/)
+
+[15331145-李果-AngularJS学习](https://leeegal.github.io/AngulaJs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
