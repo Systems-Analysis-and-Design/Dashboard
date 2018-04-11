@@ -51,6 +51,7 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 ---
 
 ## 七、Design（设计）
+[点击此处查看用例建模](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E7%94%A8%E4%BE%8B%E5%BB%BA%E6%A8%A1.md)
 
 ---
 
