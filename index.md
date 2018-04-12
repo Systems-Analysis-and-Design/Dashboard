@@ -1,15 +1,7 @@
 ## Welcome to Our Team
 
 
-
-## 一、About(项目规划)
-第一周暂定的项目计划图：
-
-![1](/img/小组会议.png)
-
----
-
-## 二、Team Profile(团队组建)
+## 一、Team Profile(团队组建)
 
 团队名称： AWM
 
@@ -30,6 +22,13 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 ---
 
+## 二、About(项目规划)
+暂定的项目计划图：
+
+![1](/img/小组会议.png)
+
+---
+
 ## 三、Investigation(项目前期调研)
 [点击此处查看前期调研报告](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.md)
 
@@ -45,15 +44,23 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 ---
 
-## 六、Requirement specification（需求规格说明）
+## 六、Requirement specification（需求规格说明） && Design（设计）
 [点击此处查看需求文档](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/需求文档.md)
 
 [点击此处查看用例建模](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E7%94%A8%E4%BE%8B%E5%BB%BA%E6%A8%A1.md)
 
 ---
 
-## 七、Design（设计）
+## 七、截至目前的个人贡献
 
+|学号|姓名|分工|
+|---|---|---|
+|15331151   | 李佳   | 进行用例建模，安排项目推进工作，管理项目dashboard页面，记录每周工作，|
+|15331145   | 李果   | 进行一部分用例建模，AngularJS探究 |
+|15331150   | 李辉旭 | 与李开锋编写需求设计文档，一部分用例建模，JavaScript学习 |
+|15331155   | 李开锋 | 与李辉旭编写需求文档，前端框架和技术深入研讨 |
+|15331167   | 李伟杜 | 负责一部分用例建模，Flask学习  |
+|15331160   | 李仁杰 | 项目前期调研报告，python&django学习|
 
 ---
 
