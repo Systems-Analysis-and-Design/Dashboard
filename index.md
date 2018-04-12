@@ -81,4 +81,7 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 [15331167-李伟杜-Flask学习](https://blog.csdn.net/qq_35583113/article/details/79902021)
 
-[15331150-李辉旭-JavaScript学习报告](https://blog.csdn.net/lihuixuaaa/article/details/79903568)
+[15331150-李辉旭-JavaScript学习报告](https://blog.csdn.net/lihuixuaaa/article/details/79903568)  
+
+[15331160-李仁杰-python&django入门](https://blog.csdn.net/Mashirolee/article/details/79912315)
+
