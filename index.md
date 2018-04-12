@@ -94,3 +94,5 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 [15331160-李仁杰-python&django入门](https://blog.csdn.net/Mashirolee/article/details/79912315)
 
+[15331155-李开锋-AngularJS快速上手（一）](https://my937889621.github.io/2018/04/13/LearningAngularJS-1)
+
