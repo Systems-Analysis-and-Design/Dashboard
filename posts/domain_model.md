@@ -1,3 +1,3 @@
 # Domain Model
 
-![domain model](/img/domain model/领域模型.png)
+![domain model](/img/domain_model/领域模型.png)
