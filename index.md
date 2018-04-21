@@ -52,6 +52,9 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 [点击此处查看三种形式用例](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E7%94%A8%E4%BE%8B%E6%96%87%E6%9C%AC.md)
 
+[点击此处查看domain model](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/domain_model.md)
+
+[点击此处查看E-R模型](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/img/domain_model/ERmodel.png)
 
 ---
 
@@ -81,8 +84,14 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 #### 2.第一阶段第二次会议（2018/3/31）
 制定了第二阶段的推进时间，对于上次会议没有说明的功能及细节进行讨论，协商项目前期调研报告内容。
 
-#### 3.第一阶段第三次会议（2018/4/2）
+#### 3.第一阶段第三次会议（2018/4/7）
 讨论实施项目设计需求文档，进行个人学习报告总结，准备进入第二阶段编码阶段。
+
+#### 4.第二阶段第一次会议（2018/4/14）
+讨论本次团队作业的分工合作，继续学习个人负责的相关领域知识。
+
+#### 5.第二阶段第二次会议（2018/4/21）
+基本完成基础设计部分的要求和工作，进入团队编码阶段。
 
 ---
 
