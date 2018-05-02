@@ -73,6 +73,14 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 ## 八、生产规范与指南
 
+#### 1.代码规范
+
+[Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+
+[Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+
+[golang编码规范](https://studygolang.com/articles/2108)
+
 ---
 
 ## 九、Meet_recording(阶段会议记录)
