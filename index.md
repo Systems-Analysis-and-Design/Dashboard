@@ -95,6 +95,10 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 [golang编码规范](https://studygolang.com/articles/2108)
 
+#### 2.API设计规范
+
+[点击此处查看API规范文档](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/API%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3.md)
+
 ---
 
 ## 九、Meet_recording(阶段会议记录)
