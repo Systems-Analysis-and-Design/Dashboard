@@ -45,16 +45,30 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 ---
 
 ## 六、Requirement specification（需求规格说明） && Design（设计）
+
+### 1.需求文档
+
 [点击此处查看需求文档](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/需求文档.md)
+
+### 2.用例图
 
 [点击此处查看用例图](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/用例图.md)
 
+### 3.形式用例
 
 [点击此处查看三种形式用例](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E7%94%A8%E4%BE%8B%E6%96%87%E6%9C%AC.md)
 
+### 4.domain model
+
 [点击此处查看domain model](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/domain_model.md)
 
+### 5.E-R模型
+
 [点击此处查看E-R模型](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/img/domain_model/ERmodel.png)
+
+### 6. API设计
+
+[点击此处查看API设计](https://app.apiary.io/pipiorder/editor)
 
 ---
 
@@ -62,12 +76,12 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 |学号|姓名|分工|
 |---|---|---|
-|15331151   | 李佳   | 进行用例建模，与李辉旭编写详述用户级别用例，进行E-R模型的建立工作，安排项目推进工作，编写项目dashboard页面，记录每周工作，Docker学习|
-|15331145   | 李果   | 进行一部分用例建模，设计E-R模型内容，编写一部分非正式用例，目标功能分析，AngularJS探究 |
-|15331150   | 李辉旭 | 与李开锋编写需求设计文档，设计domain model，与李佳编写详述用户级别用例，一部分用例建模，JavaScript学习 |
-|15331155   | 李开锋 | 与李辉旭编写需求文档，制作domain model，编写摘要用例，前端框架和技术深入研讨 |
-|15331167   | 李伟杜 | 负责一部分用例建模，设计domain model，编写一部分非正式用例，目标功能分析，Flask学习  |
-|15331160   | 李仁杰 | 项目前期调研报告，设计E-R模型内容，python&django学习|
+|15331151   | 李佳   | 进行用例建模，与李辉旭编写详述用户级别用例，进行E-R模型的建立工作，在apiary编写API初步设计，安排项目推进工作，编写项目dashboard页面，记录每周工作，Docker学习|
+|15331145   | 李果   | 进行一部分用例建模，状态建模，设计E-R模型内容，编写一部分非正式用例，目标功能分析，AngularJS探究 |
+|15331150   | 李辉旭 | 与李开锋编写需求设计文档，分析API需求，编写API设计需求规范，设计domain model，与李佳编写详述用户级别用例，一部分用例建模，JavaScript学习 |
+|15331155   | 李开锋 | 与李辉旭编写需求文档，状态建模，制作domain model，编写摘要用例，前端框架和技术深入研讨 |
+|15331167   | 李伟杜 | 负责一部分用例建模，状态建模，设计domain model，编写一部分非正式用例，目标功能分析，Flask学习  |
+|15331160   | 李仁杰 | 项目前期调研报告，分析API需求，编写API设计需求规范，设计E-R模型内容，python&django学习|
 
 ---
 
