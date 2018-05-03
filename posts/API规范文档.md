@@ -35,3 +35,13 @@
 | /api/staff/configure/{orderid}/orderconstate | PUT | 配置订单 | OK |
 | /api/staff/complete/{orderid}/ordercomstate | PUT | 完成订单 | OK |
 
+## 顾客相关操作
+
+| 路由  |  方法  |   说明     |  测试  |
+| :--: | :-------: | :--: | :--: |
+| /api/cuetomer/login | POST | 顾客登录 | OK |
+| /api/customer/createorder | POST | 顾客进店扫面点餐 | OK |
+| /api/customer/showlist/orderid | GET | 顾客付款后跳转到的详细订单页面 | OK |
+
+
+
