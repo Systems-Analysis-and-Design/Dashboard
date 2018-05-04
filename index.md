@@ -70,6 +70,10 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 [点击此处查看API设计](https://app.apiary.io/pipiorder/editor)
 
+#### 7. state model
+
+[点击此处查看state model](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/state_model.md)
+
 ---
 
 ## 七、截至目前的个人贡献
