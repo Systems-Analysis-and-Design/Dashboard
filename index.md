@@ -7,14 +7,14 @@
 
 团队成员及角色：
 
-|学号|姓名|班别|角色|
-|---|---|---|---|
-|15331151   | 李佳   |早上班|项目经理、python、DevOps工程师|
-|15331145   | 李果   |早上班|全栈工程师、产品经理 |
-|15331150   | 李辉旭 |下午班|java工程师、QA工程师  |
-|15331155   | 李开锋 |下午班 |UI/UX设计师、前端工程师、测试工程师  |
-|15331167   | 李伟杜 |早上班 |python/java工程师  |
-|15331160   | 李仁杰 |早上班|客户经理、用户体验经理 |
+|学号|昵称|班别|角色|Github|
+|---|---|---|---|---|
+|15331151   |tomylee   |早上班|项目经理、python、DevOps工程师|[Tomy-Lee](https://github.com/Tomy-Lee)|
+|15331145   |Leeegal  |早上班|全栈工程师、产品经理 |[Leeegal](https://github.com/Leeegal)|
+|15331150   | huixuli |下午班|java工程师、QA工程师  |[huixuli](https://github.com/huixuli)|
+|15331155   | Dennis|下午班 |UI/UX设计师、前端工程师、测试工程师  |[Dennis](https://github.com/my937889621)|
+|15331167   | Latitude-Lee |早上班 |python/java工程师  |[Latitude-Lee](https://github.com/Latitude-Lee)|
+|15331160   | mashiroissocute |早上班|客户经理、用户体验经理 |[mashiroissocute](https://github.com/mashiroissocute)|
 
 沟通渠道：QQ群、微信群
 
@@ -45,16 +45,30 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 ---
 
 ## 六、Requirement specification（需求规格说明） && Design（设计）
+
+#### 1.需求文档
+
 [点击此处查看需求文档](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/需求文档.md)
+
+#### 2.用例图
 
 [点击此处查看用例图](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/用例图.md)
 
+#### 3.形式用例
 
 [点击此处查看三种形式用例](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E7%94%A8%E4%BE%8B%E6%96%87%E6%9C%AC.md)
 
+#### 4.domain model
+
 [点击此处查看domain model](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/domain_model.md)
 
+#### 5.E-R模型
+
 [点击此处查看E-R模型](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/img/domain_model/ERmodel.png)
+
+#### 6. API设计
+
+[点击此处查看API设计](https://app.apiary.io/pipiorder/editor)
 
 ---
 
@@ -62,16 +76,28 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 |学号|姓名|分工|
 |---|---|---|
-|15331151   | 李佳   | 进行用例建模，与李辉旭编写详述用户级别用例，进行E-R模型的建立工作，安排项目推进工作，编写项目dashboard页面，记录每周工作，Docker学习|
-|15331145   | 李果   | 进行一部分用例建模，设计E-R模型内容，编写一部分非正式用例，目标功能分析，AngularJS探究 |
-|15331150   | 李辉旭 | 与李开锋编写需求设计文档，设计domain model，与李佳编写详述用户级别用例，一部分用例建模，JavaScript学习 |
-|15331155   | 李开锋 | 与李辉旭编写需求文档，制作domain model，编写摘要用例，前端框架和技术深入研讨 |
-|15331167   | 李伟杜 | 负责一部分用例建模，设计domain model，编写一部分非正式用例，目标功能分析，Flask学习  |
-|15331160   | 李仁杰 | 项目前期调研报告，设计E-R模型内容，python&django学习|
+|15331151   | 李佳   | 进行用例建模，与李辉旭编写详述用户级别用例，进行E-R模型的建立工作，在apiary编写API初步设计，安排项目推进工作，编写项目dashboard页面，记录每周工作，Docker学习|
+|15331145   | 李果   | 进行一部分用例建模，状态建模，设计E-R模型内容，编写一部分非正式用例，目标功能分析，AngularJS探究 |
+|15331150   | 李辉旭 | 与李开锋编写需求设计文档，分析API需求，编写API设计需求规范，设计domain model，与李佳编写详述用户级别用例，一部分用例建模，JavaScript学习 |
+|15331155   | 李开锋 | 与李辉旭编写需求文档，状态建模，制作domain model，编写摘要用例，前端框架和技术深入研讨 |
+|15331167   | 李伟杜 | 负责一部分用例建模，状态建模，设计domain model，编写一部分非正式用例，目标功能分析，Flask学习  |
+|15331160   | 李仁杰 | 项目前期调研报告，分析API需求，编写API设计需求规范，设计E-R模型内容，python&django学习|
 
 ---
 
 ## 八、生产规范与指南
+
+#### 1.代码规范
+
+[Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+
+[Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+
+[golang编码规范](https://studygolang.com/articles/2108)
+
+#### 2.API设计规范
+
+[点击此处查看API规范文档](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/API%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3.md)
 
 ---
 
@@ -93,19 +119,22 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 #### 5.第二阶段第二次会议（2018/4/21）
 基本完成基础设计部分的要求和工作，进入团队编码阶段。
 
+#### 6.第二阶段第三次会议（2018/5/2）
+状态建模、前端元素设计、API、后端开发。
+
 ---
 
 ## 十、Tech/Work Report(个人学习报告)
 
-[15331151-李佳-Docker架构初探及安装](http://tomylijia.com/2018/04/10/system-homework3/)
+[15331151-Docker架构初探及安装](http://tomylijia.com/2018/04/10/system-homework3/)
 
-[15331145-李果-AngularJS学习](https://leeegal.github.io/AngulaJs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+[15331145-AngularJS学习](https://leeegal.github.io/AngulaJs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 
-[15331167-李伟杜-Flask学习](https://blog.csdn.net/qq_35583113/article/details/79902021)
+[15331167-Flask学习](https://blog.csdn.net/qq_35583113/article/details/79902021)
 
-[15331150-李辉旭-JavaScript学习报告](https://blog.csdn.net/lihuixuaaa/article/details/79903568)  
+[15331150-JavaScript学习报告](https://blog.csdn.net/lihuixuaaa/article/details/79903568)  
 
-[15331160-李仁杰-python&django入门](https://blog.csdn.net/Mashirolee/article/details/79912315)
+[15331160-python&django入门](https://blog.csdn.net/Mashirolee/article/details/79912315)
 
-[15331155-李开锋-AngularJS快速上手（一）](https://my937889621.github.io/2018/04/13/LearningAngularJS-1)
+[15331155-AngularJS快速上手（一）](https://my937889621.github.io/2018/04/13/LearningAngularJS-1)
 
