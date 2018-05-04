@@ -8,4 +8,4 @@
 
 状态转换图：
 
-![state_model](\img\state_model\state_model.png)
+![state_model](/img/state_model/state_model.png)
