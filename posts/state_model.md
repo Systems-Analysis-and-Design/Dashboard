@@ -6,7 +6,7 @@
 
 - 事件集合 E = { create order, land, change items, change items, select desks and food, grant, confirm, pay, invoice, cancel}
 
-- 建模理由：
+- 建模理由：先要有一个开始态和终止态。既然要把整个扫码用餐的流程包含在内，则需要一条主线流程，然后通过分支来表示其他不同情况，最后这些所有的情况都将汇集到终止态。
 
 - 建模方法：
 
