@@ -7,14 +7,14 @@
 
 团队成员及角色：
 
-|学号|姓名|班别|角色|
-|---|---|---|---|
-|15331151   | 李佳   |早上班|项目经理、python、DevOps工程师|
-|15331145   | 李果   |早上班|全栈工程师、产品经理 |
-|15331150   | 李辉旭 |下午班|java工程师、QA工程师  |
-|15331155   | 李开锋 |下午班 |UI/UX设计师、前端工程师、测试工程师  |
-|15331167   | 李伟杜 |早上班 |python/java工程师  |
-|15331160   | 李仁杰 |早上班|客户经理、用户体验经理 |
+|学号|昵称|班别|角色|Github|
+|---|---|---|---|---|
+|15331151   |tomylee   |早上班|项目经理、python、DevOps工程师|[Tomy-Lee](https://github.com/Tomy-Lee)|
+|15331145   |Leeegal  |早上班|全栈工程师、产品经理 |[Leeegal](https://github.com/Leeegal)|
+|15331150   | huixuli |下午班|java工程师、QA工程师  |[huixuli](https://github.com/huixuli)|
+|15331155   | Dennis|下午班 |UI/UX设计师、前端工程师、测试工程师  |[Dennis](https://github.com/my937889621)|
+|15331167   | Latitude-Lee |早上班 |python/java工程师  |[Latitude-Lee](https://github.com/Latitude-Lee)|
+|15331160   | mashiroissocute |早上班|客户经理、用户体验经理 |[mashiroissocute](https://github.com/mashiroissocute)|
 
 沟通渠道：QQ群、微信群
 
@@ -126,15 +126,15 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 ## 十、Tech/Work Report(个人学习报告)
 
-[15331151-李佳-Docker架构初探及安装](http://tomylijia.com/2018/04/10/system-homework3/)
+[15331151-Docker架构初探及安装](http://tomylijia.com/2018/04/10/system-homework3/)
 
-[15331145-李果-AngularJS学习](https://leeegal.github.io/AngulaJs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+[15331145-AngularJS学习](https://leeegal.github.io/AngulaJs%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 
-[15331167-李伟杜-Flask学习](https://blog.csdn.net/qq_35583113/article/details/79902021)
+[15331167-Flask学习](https://blog.csdn.net/qq_35583113/article/details/79902021)
 
-[15331150-李辉旭-JavaScript学习报告](https://blog.csdn.net/lihuixuaaa/article/details/79903568)  
+[15331150-JavaScript学习报告](https://blog.csdn.net/lihuixuaaa/article/details/79903568)  
 
-[15331160-李仁杰-python&django入门](https://blog.csdn.net/Mashirolee/article/details/79912315)
+[15331160-python&django入门](https://blog.csdn.net/Mashirolee/article/details/79912315)
 
-[15331155-李开锋-AngularJS快速上手（一）](https://my937889621.github.io/2018/04/13/LearningAngularJS-1)
+[15331155-AngularJS快速上手（一）](https://my937889621.github.io/2018/04/13/LearningAngularJS-1)
 
