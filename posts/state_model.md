@@ -1,6 +1,6 @@
 # State_model
 
-- 研究对象： 扫码点餐系统order的创建。
+- 研究对象： 扫码点餐系统的订单对象。
 
 - 状态集合 S = { new order, landed, granted, selected, confirmed, invoiced, cancelled }
 
