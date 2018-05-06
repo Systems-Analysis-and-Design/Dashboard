@@ -43,5 +43,25 @@
 | /api/customer/createorder | POST | 顾客进店扫面点餐 | OK |
 | /api/customer/showlist/orderid | GET | 顾客付款后跳转到的详细订单页面 | OK |
 
+## 部分API说明
+### 店主添加菜品
+### 应用场景
+ 店主在点餐系统中添加一项之前没有的菜品。
+ ### 接口链接
+ https://api/boss/manage/dishes
+ ### 是否需要证书
+ 不需要
+### 请求参数
+| 字段名 |  变量名  |   必填     |  类型  |  示例值 |  描述 |
+| :--: | :-------: | :--: | :--: | :--: | :--: |
+| 店主账号| bossid | 是| string| boss | 店主 用于管理该系统的账号|
+| 店主账号密码| bosspassword|是|string|123456|店主登录到管理账户的密码|
+|菜品名|dishname|是|string|mlxg|新加入的菜品的名称|
+|菜品价格|dishprice|是|float|32.5|菜品的售出价格|
+|菜品原料|dishingredients|是|string|xiaobaicai|制作该菜品所需要的原材料|
+|菜品描述|dishdetial|否|string|delicious|描述该菜品的外观起源等信息|
+### 举例如下
+
+
 
 
