@@ -17,5 +17,5 @@
 V1：
 ![state_model](/img/state_model/state_model.png)
 
-V2：
+V2：  
 ![order](/img/state_model/order.png)
