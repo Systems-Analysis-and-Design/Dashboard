@@ -76,6 +76,9 @@
     <dishdetial>delicious</dishdetial>  
     
  </xml> 
-
+### 返回结果
+| 字段名 |  变量名  |   必填     |  类型  |  示例值 |  描述 |
+| :--: | :-------: | :--: | :--: | :--: | :--: |
+|返回状态码|return_code|是|string|SUCCESS|添加菜品操作成功|
 
 
