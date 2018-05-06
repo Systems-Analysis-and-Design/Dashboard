@@ -125,6 +125,9 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 #### 6.第二阶段第三次会议（2018/5/2）
 状态建模、前端元素设计、API、后端开发。
 
+#### 7.第二阶段第四次会议(2018/5/6)
+分布lesson9任务，确定框架。
+
 ---
 
 ## 十、Tech/Work Report(个人学习报告)
