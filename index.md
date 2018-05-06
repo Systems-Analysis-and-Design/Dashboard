@@ -1,6 +1,6 @@
 ## Welcome to Our Team
 
-- [Welcome to Our Team](#welcome-to-our-team)
+## 目录
 - [一、Team Profile(团队组建)](#一team-profile团队组建)
 - [二、About(项目规划)](#二about项目规划)
 - [三、Investigation(项目前期调研)](#三investigation项目前期调研)
