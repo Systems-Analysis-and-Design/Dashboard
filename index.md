@@ -1,35 +1,6 @@
 ## Welcome to Our Team
 
-    - [一、Team Profile(团队组建)](#team-profile)
-    - [二、About(项目规划)](#about)
-    - [三、Investigation(项目前期调研)](#investigation)
-    - [四、Vision(项目愿景)](#vision)
-    - [五、Product Backing(产品特性)](#product-backing)
-    - [六、Requirement specification（需求规格说明） && Design（设计）](#requirement-specification-design)
-            - [1.需求文档](#1)
-            - [2.用例图](#2)
-            - [3.形式用例](#3)
-            - [4.domain model](#4domain-model)
-            - [5.E-R模型](#5e-r)
-            - [6. API设计](#6-api)
-            - [7. state model](#7-state-model)
-    - [七、截至目前的个人贡献](#)
-    - [八、生产规范与指南](#)
-            - [1.代码规范](#1)
-            - [2.API设计规范](#2api)
-    - [九、Meet_recording(阶段会议记录)](#meet-recording)
-            - [1. inception meeting(2018/03/24)](#1-inception-meeting2018-03-24)
-            - [2.第一阶段第二次会议（2018/3/31）](#22018-3-31)
-            - [3.第一阶段第三次会议（2018/4/7）](#32018-4-7)
-            - [4.第二阶段第一次会议（2018/4/14）](#42018-4-14)
-            - [5.第二阶段第二次会议（2018/4/21）](#52018-4-21)
-            - [6.第二阶段第三次会议（2018/5/2）](#62018-5-2)
-            - [7.第二阶段第四次会议(2018/5/6)](#72018-5-6)
-    - [十、Tech/Work Report(个人学习报告)](#tech-work-report)
-    - [十一、建模练习](#)
-            - [(1) 应用业务描述](#1)
-
-
+<TOC>
 
 ## 一、Team Profile(团队组建)
 
