@@ -1,4 +1,4 @@
-## Welcome to Our Team
+# Welcome to Our Team
 
 ## 目录
 - [一、Team Profile(团队组建)](#一team-profile团队组建)
