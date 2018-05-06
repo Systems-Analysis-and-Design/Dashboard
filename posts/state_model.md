@@ -14,6 +14,8 @@
   3. 识别事件和变迁条件：促使状态发生变迁动作（事件）  
   4. 合理性、完整性检查和逻辑分析：终点可达性、有无悬挂状态、循环分析、路径分析等  
 
-状态转换图：
-
+V1：
 ![state_model](/img/state_model/state_model.png)
+
+V2：
+![order](/img/state_model/order.png)
