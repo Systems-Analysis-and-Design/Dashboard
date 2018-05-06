@@ -61,7 +61,21 @@
 |菜品原料|dishingredients|是|string|xiaobaicai|制作该菜品所需要的原材料|
 |菜品描述|dishdetial|否|string|delicious|描述该菜品的外观起源等信息|
 ### 举例如下
-
+   <xml>
+ 
+    <bossid>boss</bossid>
+ 
+    <bosspassword>123456</bosspassword>
+    
+    <dishname>mlxg</dishname>
+    
+    <dishprice>32.5</dishprice>
+    
+    <dishingredients>xiaobaicai</dishingredients>
+    
+    <dishdetial>delicious</dishdetial>  
+    
+ </xml> 
 
 
 
