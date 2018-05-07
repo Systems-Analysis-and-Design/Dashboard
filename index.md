@@ -1,6 +1,9 @@
 # Welcome to Our Team
 
+
+
 ## 目录
+
 - [一、Team Profile(团队组建)](#一team-profile团队组建)
 - [二、About(项目规划)](#二about项目规划)
 - [三、Investigation(项目前期调研)](#三investigation项目前期调研)
@@ -14,7 +17,7 @@
    - [5.E-R模型](#5e-r模型)
    - [6. API设计](#6-api设计)
    - [7. state model](#7-state-model)
-   - [8.功能模型](#8功能模型)   
+   - [8.功能模型](#8-功能模型)
 - [七、生产规范与指南](#七生产规范与指南)
    - [1.代码规范](#1代码规范)
    - [2.API设计规范](#2api设计规范)
