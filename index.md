@@ -42,11 +42,11 @@
 
 |学号|昵称|班别|角色|Github|
 |---|---|---|---|---|
-|15331151   |tomylee   |早上班|项目经理、python、DevOps工程师|[Tomy-Lee](https://github.com/Tomy-Lee)|
+|15331151   |tomylee   |早上班|项目经理、后端工程师、数据库管理、DevOps工程师|[Tomy-Lee](https://github.com/Tomy-Lee)|
 |15331145   |Leeegal  |早上班|全栈工程师、产品经理 |[Leeegal](https://github.com/Leeegal)|
-|15331150   | huixuli |下午班|java工程师、QA工程师  |[huixuli](https://github.com/huixuli)|
+|15331150   | huixuli |下午班|后端工程师、QA工程师  |[huixuli](https://github.com/huixuli)|
 |15331155   | Dennis|下午班 |UI/UX设计师、前端工程师、测试工程师  |[Dennis](https://github.com/my937889621)|
-|15331167   | Latitude-Lee |早上班 |python/java工程师  |[Latitude-Lee](https://github.com/Latitude-Lee)|
+|15331167   | Latitude-Lee |早上班 |后端工程师  |[Latitude-Lee](https://github.com/Latitude-Lee)|
 |15331160   | mashiroissocute |早上班|客户经理、用户体验经理 |[mashiroissocute](https://github.com/mashiroissocute)|
 
 沟通渠道：QQ群、微信群
