@@ -14,6 +14,7 @@
    - [5.E-R模型](#5e-r模型)
    - [6. API设计](#6-api设计)
    - [7. state model](#7-state-model)
+   - [8. 功能模型](#8功能模型)
 - [七、生产规范与指南](#七生产规范与指南)
    - [1.代码规范](#1代码规范)
    - [2.API设计规范](#2api设计规范)
@@ -102,6 +103,10 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 #### 7. state model
 
 [点击此处查看state model](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/state_model.md)
+
+#### 8. 功能模型
+
+[点击此处查看功能模型](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9E%8B.md)
 
 ---
 
