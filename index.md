@@ -14,10 +14,10 @@
    - [5.E-R模型](#5e-r模型)
    - [6. API设计](#6-api设计)
    - [7. state model](#7-state-model)
-- [七、截至目前的个人贡献](#七截至目前的个人贡献)
-- [八、生产规范与指南](#八生产规范与指南)
+- [七、生产规范与指南](#七生产规范与指南)
    - [1.代码规范](#1代码规范)
    - [2.API设计规范](#2api设计规范)
+- [八、截至目前的个人贡献](#八截至目前的个人贡献)
 - [九、Meet_recording(阶段会议记录)](#九meet_recording阶段会议记录)
    - [1. inception meeting(2018/03/24)](#1-inception-meeting20180324)
    - [2.第一阶段第二次会议（2018/3/31）](#2第一阶段第二次会议2018331)
@@ -105,20 +105,7 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 ---
 
-## 七、截至目前的个人贡献
-
-|学号|姓名|分工|
-|---|---|---|
-|15331151   | tomylee    | 进行用例建模，与李辉旭编写详述用户级别用例，进行E-R模型的建立工作，在apiary编写API初步设计，安排项目推进工作，编写项目dashboard页面，记录每周工作，Docker学习|
-|15331145   | Leeegal  | 进行一部分用例建模，状态建模，设计E-R模型内容，编写一部分非正式用例，目标功能分析，AngularJS探究 |
-|15331150   | huixuli | 与李开锋编写需求设计文档，分析API需求，编写API设计需求规范，设计domain model，与李佳编写详述用户级别用例，一部分用例建模，JavaScript学习 |
-|15331155   | Dennis| 与李辉旭编写需求文档，状态建模，制作domain model，编写摘要用例，前端框架和技术深入研讨 |
-|15331167   | Latitude-Lee | 负责一部分用例建模，状态建模，设计domain model，编写一部分非正式用例，目标功能分析，Flask学习  |
-|15331160   | mashiroissocute | 项目前期调研报告，分析API需求，编写API设计需求规范，设计E-R模型内容，python&django学习|
-
----
-
-## 八、生产规范与指南
+## 七、生产规范与指南
 
 #### 1.代码规范
 
@@ -131,6 +118,20 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 #### 2.API设计规范
 
 [点击此处查看API规范文档](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/API%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3.md)
+
+---
+
+
+## 八、截至目前的个人贡献
+
+|学号|姓名|分工|
+|---|---|---|
+|15331151   | tomylee    | 进行用例建模，与李辉旭编写详述用户级别用例，进行E-R模型的建立工作，在apiary编写API初步设计，安排项目推进工作，编写项目dashboard页面，记录每周工作，Docker学习|
+|15331145   | Leeegal  | 进行一部分用例建模，状态建模，设计E-R模型内容，编写一部分非正式用例，目标功能分析，AngularJS探究 |
+|15331150   | huixuli | 与李开锋编写需求设计文档，分析API需求，编写API设计需求规范，设计domain model，与李佳编写详述用户级别用例，一部分用例建模，JavaScript学习 |
+|15331155   | Dennis| 与李辉旭编写需求文档，状态建模，制作domain model，编写摘要用例，前端框架和技术深入研讨 |
+|15331167   | Latitude-Lee | 负责一部分用例建模，状态建模，设计domain model，编写一部分非正式用例，目标功能分析，Flask学习  |
+|15331160   | mashiroissocute | 项目前期调研报告，分析API需求，编写API设计需求规范，设计E-R模型内容，python&django学习|
 
 ---
 
