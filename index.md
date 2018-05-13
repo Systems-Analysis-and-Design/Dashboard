@@ -194,7 +194,7 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 1.
 [15331441-ZMJ](https://shimo.im/docs/Q6iCHBnATesX0AjV)
 
-评价：这位同学的建模答案比较准确，有些关键点也很到位，在业务状态图绘制时可以做的更详细一些；领域模型上还可以加上商品信息，购物清单等节点。总的来说做的已经非常好了。
+评价：感谢这位同学做我们组的建模练习，可以看出来这位同学还是很认真的，建模答案也比较准确，一些图的逻辑和关键点也很到位。当然，在业务状态图绘制时可以做的更详细一些，对中间环节描述不够精细；领域模型上还可以加上商品信息，购物清单等节点。总的来说做的已经非常好了。
 
 2.
 [MarshallW906](https://marshallw906.github.io/SYSU-SSAD/Modelling-Practice/)
