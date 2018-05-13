@@ -186,3 +186,7 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 ## 十一、建模练习
 #### (1) 应用业务描述
 [京东购物业务流程描述](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E4%BA%AC%E4%B8%9C%E8%B4%AD%E7%89%A9%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E6%8F%8F%E8%BF%B0.pdf)
+
+#### (2)其他同学建模答案及评价
+
+
