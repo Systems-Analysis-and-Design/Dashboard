@@ -140,7 +140,7 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 ---
 
 
-## 八、截至目前的个人贡献
+## 八、Dashboard相关文件的个人贡献(不一定跟上更新)
 
 |学号|姓名|分工|
 |---|---|---|
