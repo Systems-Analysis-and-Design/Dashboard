@@ -21,6 +21,7 @@
 - [七、生产规范与指南](#七生产规范与指南)
    - [1.代码规范](#1代码规范)
    - [2.API设计规范](#2api设计规范)
+   - [3.补充性规格说明](#3补充性规格说明)
 - [八、截至目前的个人贡献](#八截至目前的个人贡献)
 - [九、Meet_recording(阶段会议记录)](#九meet_recording阶段会议记录)
    - [1. inception meeting(2018/03/24)](#1-inception-meeting20180324)
@@ -121,14 +122,20 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
-[Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+[node.js文档](http://nodejs.cn/api/)
 
-[golang编码规范](https://studygolang.com/articles/2108)
+[express 4.x手册](http://www.expressjs.com.cn/4x/api.html)
+
+[Mongodb手册](http://www.mongodb.org.cn/manual/)
+
 
 #### 2.API设计规范
 
 [点击此处查看API规范文档](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/API%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3.md)
 
+#### 3.补充性规格说明
+
+[点击此处查看](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E8%A1%A5%E5%85%85%E6%80%A7%E8%A7%84%E5%88%92%E8%AF%B4%E6%98%8E.md)
 ---
 
 
