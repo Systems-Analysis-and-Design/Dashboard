@@ -135,7 +135,8 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 #### 3.补充性规格说明
 
-[点击此处查看](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E8%A1%A5%E5%85%85%E6%80%A7%E8%A7%84%E5%88%92%E8%AF%B4%E6%98%8E.md)
+[点击此处查看Supplementary Requirements ](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E8%A1%A5%E5%85%85%E6%80%A7%E8%A7%84%E5%88%92%E8%AF%B4%E6%98%8E.md)
+
 ---
 
 
