@@ -11,7 +11,7 @@
 
 架构图（作者：李佳）
 
-！[架构图](/img/supplement/三层架构图.PNG)
+![架构图](/img/supplement/三层架构图.PNG)
 
 ### 解决方案
 
