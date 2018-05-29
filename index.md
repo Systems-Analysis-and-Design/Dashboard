@@ -18,10 +18,10 @@
    - [6. API设计](#6-api设计)
    - [7. state model](#7-state-model)
    - [8.功能模型](#8-功能模型)
+   - [9.补充性规格说明](#9补充性规格说明)
 - [七、生产规范与指南](#七生产规范与指南)
    - [1.代码规范](#1代码规范)
    - [2.API设计规范](#2api设计规范)
-   - [3.补充性规格说明](#3补充性规格说明)
 - [八、截至目前的个人贡献](#八截至目前的个人贡献)
 - [九、Meet_recording(阶段会议记录)](#九meet_recording阶段会议记录)
    - [1. inception meeting(2018/03/24)](#1-inception-meeting20180324)
@@ -31,6 +31,8 @@
    - [5.第二阶段第二次会议（2018/4/21）](#5第二阶段第二次会议2018421)
    - [6.第二阶段第三次会议（2018/5/2）](#6第二阶段第三次会议201852)
    - [7.第二阶段第四次会议(2018/5/6)](#7第二阶段第四次会议201856)
+   - [8.第二阶段第五次会议(2018/5/13)](#8第二阶段第五次会议2018513)
+   - [9.第三阶段第一次会议(2018/5/27)](#9第三阶段第一次会议2018527)
 - [十、Tech/Work Report(个人学习报告)](#十techwork-report个人学习报告)
 - [十一、建模练习](#十一建模练习)
    - [(1) 应用业务描述](#1-应用业务描述)
@@ -114,6 +116,10 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 [点击此处查看功能模型](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9E%8B.md)
 
+#### 9.补充性规格说明
+
+[点击此处查看Supplementary Requirements ](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E8%A1%A5%E5%85%85%E6%80%A7%E8%A7%84%E5%88%92%E8%AF%B4%E6%98%8E.md)
+
 ---
 
 ## 七、生产规范与指南
@@ -132,10 +138,6 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 #### 2.API设计规范
 
 [点击此处查看API规范文档](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/API%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3.md)
-
-#### 3.补充性规格说明
-
-[点击此处查看Supplementary Requirements ](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E8%A1%A5%E5%85%85%E6%80%A7%E8%A7%84%E5%88%92%E8%AF%B4%E6%98%8E.md)
 
 ---
 
@@ -176,6 +178,12 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 #### 7.第二阶段第四次会议(2018/5/6)
 分布lesson9任务，确定框架。
+
+#### 8.第二阶段第五次会议(2018/5/13)
+测试当前项目的运行情况，讨论解决bug，进一步规定一些细节，更新需求。
+
+#### 9.第三阶段第一次会议(2018/5/27)
+进入编写的尾部阶段，针对一些小问题进行修改，点菜和管理进行整合。
 
 ---
 
