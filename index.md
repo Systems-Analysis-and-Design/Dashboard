@@ -19,6 +19,7 @@
    - [7. state model](#7-state-model)
    - [8.功能模型](#8-功能模型)
    - [9.补充性规格说明](#9补充性规格说明)
+   - [10.SAD](#10sad)
 - [七、生产规范与指南](#七生产规范与指南)
    - [1.代码规范](#1代码规范)
    - [2.API设计规范](#2api设计规范)
@@ -119,6 +120,10 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 #### 9.补充性规格说明
 
 [点击此处查看Supplementary Requirements ](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/%E8%A1%A5%E5%85%85%E6%80%A7%E8%A7%84%E5%88%92%E8%AF%B4%E6%98%8E.md)
+
+#### 10.SAD
+
+[点击此处查看Software Architecture Document](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/Software%20Architecture%20Document.md)
 
 ---
 
