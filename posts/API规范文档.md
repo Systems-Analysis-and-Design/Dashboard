@@ -35,13 +35,28 @@
 | /api/staff/configure/{orderid}/orderconstate | PUT | 配置订单 | OK |
 | /api/staff/complete/{orderid}/ordercomstate | PUT | 完成订单 | OK |
 
+
+## 厨师相关操作
+| 路由  |  方法  |   说明     |  测试  |
+| :--: | :-------: | :--: | :--: |
+| /api/staff/login | POST | 厨师员工登录 | OK |
+| /api/staff/logout | POST | 厨师员工登出 | OK |
+| /api/staff/showunfinished{orderid}/orderconstate | PUT | 显示未制作订单 | OK |
+| /api/staff/changestate/{orderid}/ordercomstate | PUT | 更改订单状态订单 | OK |
+
+
 ## 顾客相关操作
 
 | 路由  |  方法  |   说明     |  测试  |
 | :--: | :-------: | :--: | :--: |
 | /api/cuetomer/login | POST | 顾客登录 | OK |
 | /api/customer/createorder | POST | 顾客进店扫面点餐 | OK |
+| /api/customer/showdishs | GET | 顾客获得菜品信息 | OK |
 | /api/customer/showlist/orderid | GET | 顾客付款后跳转到的详细订单页面 | OK |
+| /api/customer/pay/orderid | POST | 顾客付款 | OK |
+| /api/customer/confirm/orderid | GET | 顾客确认订单无误 | OK |
+| /api/customer/review | POST | 顾客可在享用美食后发表自己的评价 | OK |
+
 
 ## 部分API说明
 ### 店主添加菜品
