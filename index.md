@@ -232,3 +232,6 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 [Boyce-Lee](https://github.com/Boyce-Lee/Boyce-Lee.github.io/blob/master/_posts/2018-5-13-mid-exam.md)
 
 评价：这位同学所画的图，非常的详尽，几乎考虑到了各种情况，而且答案也非常的准确。在领域模型的product和order这两者之间，是不是应该1...* 对 1 啊？毕竟要下了订单，订单不包含产品的话，感觉不能下订单吧。大佬的毛病，还是难找的啊...（我也不知道我这毛病挑的对不对...)
+
+## 十二、个人最终报告
+
