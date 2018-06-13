@@ -65,7 +65,7 @@ localhost:3000/user/?username=qqqqqq&info=menu
 | :--: | :-------: | :--: | :--: | :--: | :--: |
 | 店主账号| owner | 是| string| qqqqqq | 店主用于管理该系统的账号|
 | 菜名| name|是|string|麻辣香锅|新加菜品的名称|
-|图片|imgSRc|否|string|images/upload/f.png|新加入的菜品的图片地址|
+|图片|imgSrc|否|string|images/upload/f.png|新加入的菜品的图片地址|
 |菜品食材|ingredients|是|string|肉片、菜花|菜品的制作食材|
 |菜品类别|class|是|string|rice|用于在点菜界面分类|
 |菜品成本|cost|是|string|13|菜品的制作成本价|
