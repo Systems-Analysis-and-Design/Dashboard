@@ -62,6 +62,7 @@ localhost:3000/user/?username=qqqqqq&info=menu
 
 
 #### 5.5.举例如下
+```
 Menu {
   owner: 'qqqqqq',
   name: '水',
@@ -71,6 +72,7 @@ Menu {
   cost: '3',
   price: '5',
  } 
+ ```
  
 #### 5.6.返回结果
 
