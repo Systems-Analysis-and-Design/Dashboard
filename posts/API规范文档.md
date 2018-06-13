@@ -39,6 +39,17 @@
 | /employee/?username={username}&managername={managername} |POST | 更改订单状态 | OK |
 
 
+### 4.顾客相关操作
+| 路由  |  方法  |   说明     |  测试  |
+| :--: | :-------: | :--: | :--: |
+| /{managername}/client | GET | 顾客扫码登录获取菜单界面 | OK |
+| /{managername}/client | POST | 顾客完成点餐后进入确认订单支付界面 | OK |
+| /{managername}/handin/?id={streamid}&order={orderdetail}&tableID={tabelid} | GET | 顾客获取订单详情信息 | OK |
+| /{managername}/handin/?id={streamid}&order={orderdetail}&tableID={tabelid}  | POST | 顾客确认支付 | OK |
+| /{managername}/handin/?id={streamid}&order={orderdetail}&tableID={tabelid}&finish={true} | GET | 顾客获取订单评价界面 | OK |
+| /{managername}/handin/?id={streamid}&order={orderdetail}&tableID={tabelid}&finish={true}  | POST | 顾客提交订单评价信息 | OK |
+
+
 
 ### 5.API示例说明---店主添加菜品
 #### 5.1.应用场景
