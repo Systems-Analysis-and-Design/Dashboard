@@ -147,6 +147,10 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 [点击此处查看API规范文档](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/API%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3.md)
 
+#### 3.docker-compose.yml
+
+[点击此处docker-compose.yml编写](https://github.com/Systems-Analysis-and-Design/an-Order-system/blob/master/docker-compose.yml)
+
 ---
 
 
