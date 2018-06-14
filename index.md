@@ -24,7 +24,7 @@
    - [1.代码规范](#1代码规范)
    - [2.API设计规范](#2api设计规范)
    - [3.docker-composeyml](#3docker-composeyml)
-- [八、Dashboard相关文件的个人贡献](#八Dashboard相关文件的个人贡献)
+- [八、Dashboard个人贡献](#八Dashboard个人贡献)
 - [九、Meet_recording(阶段会议记录)](#九meet_recording阶段会议记录)
    - [1. inception meeting(2018/03/24)](#1-inception-meeting20180324)
    - [2.第一阶段第二次会议（2018/3/31）](#2第一阶段第二次会议2018331)
@@ -154,7 +154,7 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 ---
 
 
-## 八、Dashboard相关文件的个人贡献
+## 八、Dashboard个人贡献
 
 |学号|姓名|分工|
 |---|---|---|
