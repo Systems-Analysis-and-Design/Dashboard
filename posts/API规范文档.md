@@ -1,86 +1,94 @@
 
-## 返回状态码
+### 1.返回状态码
 
 |  类型  | stateCode | info |
 | :--: | :-------: | :--: |
-|  成功  |    200    | NULL |
-|  错误  |    400    | 错误信息 |
+|  请求操作成功  |    200    | NULL |
+|成功GET且文件未改变|304|NULL|
+|页面重定向|302|NULL|
+|  错误  |    500    | 错误信息 |
 
-## 店主相关操作
-
-| 路由  |  方法  |   说明     |  测试  |
-| :--: | :-------: | :--: | :--: |
-| /api/boss | POST | 店主进行注册账户 | OK |
-| /api/boss/login{?openid} | GET | 检测店主是否登录 | OK |
-| /api/boss/login | POST | 店主进行登录账户 | OK |
-| /api/boss/logout | POST | 店主进行登出账户 | OK |
-| /api/boss/self | DELETE | 店主注销自己的账户 | OK |
-| /api/boss/manage/staff | POST | 店主添加员工账户 | OK |
-| /api/boss/manage/staff/{staffname} | DELETE | 店主删除员工账户 | OK |
-| /api/boss/manage/ingredients | POST | 店主添加某一种食品原材料 | OK |
-| /api/boss/manage/ingredients/{ingredientsname} | DELETE | 店主删除某一种食品原材料 | OK |
-| /api/boss/manage/ingredients/{ingredientsname} | PUT | 店主更新某种食品原材料的库存信息 | OK |
-| /api/boss/manage/dishes | POST | 店主为店铺添加一种新的菜品 | OK |
-| /api/boss/manage/dishes/{dishesname} | DELETE | 店主删除店铺中的某一种菜品 | OK |
-| /api/boss/manage/remarks | GET | 店主获取客户的评价信息 | OK |
-| /api/boss/manage/accounts | GET | 店主获取店铺的收支信息 | OK |
-
-
-## 员工相关操作
+### 2.店主相关操作
 
 | 路由  |  方法  |   说明     |  测试  |
 | :--: | :-------: | :--: | :--: |
-| /api/staff/login | POST | 员工登录 | OK |
-| /api/staff/logout | POST | 员工登出 | OK |
-| /api/staff/configure/{orderid}/orderconstate | PUT | 配置订单 | OK |
-| /api/staff/complete/{orderid}/ordercomstate | PUT | 完成订单 | OK |
+| /?op=regist | POST | 店主进行注册账户 | OK |
+| /?op=managerLogin | POST | 店主登录 | OK |
+| /user/?username={username}&info=personal|GET|获取店主个人主页|OK|
+| /user/?op=logout| GET | 店主登出账户 | OK |
+| /user/?username={username}&info=personal-account | POST | 店主修改个人信息 | OK |
+|  /user/?username={username}&info=personal-store | POST | 店主修改商家信息 | OK |
+|/user/?username={username}&info=ingredients | GET | 获取食材信息页面 | OK |
+|  /user/?username={username}&info=ingredients | POST | 店主增加删除食材 | OK |
+| /user/?username={username}&info=menu |GET| 获取菜品信息页面 | OK |
+| /user/?username={username}&info=menu | POST | 修改菜品信息 | OK |
+| /user/?username={username}&info=accounts | GET | 店主获取店铺的收支信息 | OK |
+|/user/?username={username}&info=evaluation|GET|查看订单评价信息|OK|
+|/user/?username={username}&info=employee|GET|获取员工信息页面|OK|
+| /user/?username={username}&info=employee&op=save|POST|修改员工信息|OK|
+| /user/?username={username}&info=employee&op=new|POST|新增员工|OK|
+| /user/?username={username}&op=uploadImg | POST | 修改图片 | OK |
+| /images/upload/{image_address} | GET | 加载新图片 | OK |
 
-## 顾客相关操作
 
+### 3.厨师相关操作
 | 路由  |  方法  |   说明     |  测试  |
 | :--: | :-------: | :--: | :--: |
-| /api/cuetomer/login | POST | 顾客登录 | OK |
-| /api/customer/createorder | POST | 顾客进店扫面点餐 | OK |
-| /api/customer/showlist/orderid | GET | 顾客付款后跳转到的详细订单页面 | OK |
+|  /?op=employeeLogin | POST | 厨师登录 | OK |
+| /employee/?username={username}&managername={managername} | GET | 显示订单界面 | OK |
+| /employee/?username={username}&managername={managername} |POST | 更改订单状态 | OK |
 
-## 部分API说明
-### 店主添加菜品
-### 应用场景
+
+### 4.顾客相关操作
+| 路由  |  方法  |   说明     |  测试  |
+| :--: | :-------: | :--: | :--: |
+| /{managername}/client?tableID={tableid} | GET | 顾客扫码登录获取菜单界面 | OK |
+| /{managername}/client?tableID={tableid} | POST | 顾客完成点餐后进入确认订单支付界面 | OK |
+| /{managername}/handin/?id={streamid}&order={orderdetail}&tableID={tabelid} | GET | 顾客获取订单详情信息 | OK |
+| /{managername}/handin/?id={streamid}&order={orderdetail}&tableID={tabelid}  | POST | 顾客确认支付 | OK |
+| /{managername}/handin/?id={streamid}&order={orderdetail}&tableID={tabelid}&finish={true} | GET | 顾客获取订单评价界面 | OK |
+| /{managername}/handin/?id={streamid}&order={orderdetail}&tableID={tabelid}&finish={true}  | POST | 顾客提交订单评价信息 | OK |
+
+
+
+### 5.API示例说明---店主添加菜品
+#### 5.1.应用场景
  店主在点餐系统中添加一项之前没有的菜品。
- ### 接口链接
- https://api/boss/manage/dishes
- ### 是否需要证书
+#### 5.2.接口示例
+localhost:3000/user/?username=qqqqqq&op=uploadImg
+
+localhost:3000/user/?username=qqqqqq&info=menu
+#### 5.3.是否需要证书
  不需要
-### 请求参数
+#### 5.4.请求参数
 | 字段名 |  变量名  |   必填     |  类型  |  示例值 |  描述 |
 | :--: | :-------: | :--: | :--: | :--: | :--: |
-| 店主账号| bossid | 是| string| boss | 店主 用于管理该系统的账号|
-| 店主账号密码| bosspassword|是|string|123456|店主登录到管理账户的密码|
-|菜品名|dishname|是|string|mlxg|新加入的菜品的名称|
-|菜品价格|dishprice|是|float|32.5|菜品的售出价格|
-|菜品原料|dishingredients|是|string|xiaobaicai|制作该菜品所需要的原材料|
-|菜品描述|dishdetial|否|string|delicious|描述该菜品的外观起源等信息|
-### 举例如下
-   <xml>
+| 店主账号| owner | 是| string| qqqqqq | 店主用于管理该系统的账号|
+| 菜名| name|是|string|麻辣香锅|新加菜品的名称|
+|图片|imgSrc|否|string|images/upload/f.png|新加入的菜品的图片地址|
+|菜品食材|ingredients|是|string|肉片、菜花|菜品的制作食材|
+|菜品类别|class|是|string|rice|用于在点菜界面分类|
+|菜品成本|cost|是|string|13|菜品的制作成本价|
+|菜品售价|price|是|string|25|菜品的售价|
+
+
+#### 5.5.举例如下
+```
+Menu {
+  owner: 'qqqqqq',
+  name: '水',
+  imgSrc: 'images/upload/50d535e8fa166d1cfd92fa9c9a36ebaf.png',
+  ingredients: '水',
+  class: 'drink',
+  cost: '3',
+  price: '5',
+ } 
+ ```
  
-    <bossid>boss</bossid>
- 
-    <bosspassword>123456</bosspassword>
-    
-    <dishname>mlxg</dishname>
-    
-    <dishprice>32.5</dishprice>
-    
-    <dishingredients>xiaobaicai</dishingredients>
-    
-    <dishdetial>delicious</dishdetial>  
-    
- </xml> 
- 
-### 返回结果
+#### 5.6.返回结果
 
 | 字段名 |  变量名  |   必填     |  类型  |  示例值 |  描述 |
 | :--: | :-------: | :--: | :--: | :--: | :--: |
-|返回状态码|return_code|是|string|SUCCESS|添加菜品操作成功|
+|返回状态码|result|是|string|SUCCESS|添加菜品操作成功|
 
 
