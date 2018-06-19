@@ -291,11 +291,11 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 代码部分组员提交记录：
 
-![](/img/model/work1.png)
+![2](/img/model/work1.png)
 
 dashboard部分组员提交记录：
 
-![](/img/model/work2.png)
+![3](/img/model/work2.png)
 
 ### 4.个人工作体会
 
