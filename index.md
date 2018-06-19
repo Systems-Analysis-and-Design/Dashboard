@@ -24,6 +24,7 @@
    - [1.代码规范](#1代码规范)
    - [2.API设计规范](#2api设计规范)
    - [3.docker-composeyml](#3docker-composeyml)
+   - [4.readme](#4readme)
 - [八、Dashboard个人贡献](#八dashboard个人贡献)
 - [九、Meet_recording(阶段会议记录)](#九meet_recording阶段会议记录)
    - [1. inception meeting(2018/03/24)](#1-inception-meeting20180324)
@@ -41,7 +42,12 @@
 - [十一、建模练习](#十一建模练习)
    - [(1) 应用业务描述](#1-应用业务描述)  
    - [(2)其他同学建模答案及评价](#2其他同学建模答案及评价)
-- [十二、个人总结报告](#十二个人总结报告)
+- [十二、总结报告](#十二总结报告)
+   - [1.个人总结报告](#1个人总结报告) 
+   - [2.PSP](#2PSP) 
+   - [3.个人提交记录](#3个人提交记录) 
+   - [4.个人工作体会](#4个人工作体会) 
+   - [5.技术博客](#5技术博客) 
 
 ## 一、Team Profile(团队组建)
 
@@ -151,6 +157,10 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 [点击此处docker-compose.yml编写](https://github.com/Systems-Analysis-and-Design/an-Order-system/blob/master/docker-compose.yml)
 
+#### 4.ReadMe
+
+[点击此处查看readme文档](https://github.com/Systems-Analysis-and-Design/an-Order-system/blob/demo/README.md)
+
 ---
 
 
@@ -246,8 +256,53 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 评价：这位同学所画的图，非常的详尽，几乎考虑到了各种情况，而且答案也非常的准确。在领域模型的product和order这两者之间，是不是应该1...* 对 1 啊？毕竟要下了订单，订单不包含产品的话，感觉不能下订单吧。大佬的毛病，还是难找的啊...（我也不知道我这毛病挑的对不对...)
 
-## 十二、个人总结报告
+## 十二、总结报告
+
+### 1.个人总结报告
 
 [15331151-组长-个人总结报告](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/15331151-%E4%B8%AA%E4%BA%BA%E6%9C%80%E7%BB%88%E6%8A%A5%E5%91%8A.md)  
 [15331155-个人总结报告](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/15331155-%E4%B8%AA%E4%BA%BA%E6%9C%80%E7%BB%88%E6%8A%A5%E5%91%8A.md)  
 [15331167-个人总结报告](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/15331167-%E4%B8%AA%E4%BA%BA%E6%9C%80%E7%BB%88%E6%8A%A5%E5%91%8A.md)
+
+### 2.PSP
+
+|||||
+|---|---|---|---|
+|PSP2.1|任务内容|计划完成需要的时间(min)|实际完成需要的时间(min)|
+|Planning|计划|150|180|
+|Development|开发|1030|1200|
+|Analysis|需求分析 (包括学习新技术)|50|60|
+|Design Spec|生成设计文档|80|90|
+|Design Review|设计复审 (审核设计文档)|20|20|
+|Coding Standard|代码规范 (为目前的开发制定合适的规范)|30|30|
+|Design|具体设计|120|150|
+|Coding|具体编码|600|700|
+|Code Review|代码复审|40|50|
+|test|测试（自我测试，修改代码，提交修改）|90|100|
+|Reporting|报告|180|180|
+|Size Measurement|计算工作量|30|30|
+|Improvement Plan|事后总结 ,并提出过程改进计划|150|150|
+|Summary|合计|1360|1560|
+
+### 3.个人提交记录
+
+代码部分组员提交记录：
+
+![](/img/model/work1.png)
+
+dashboard部分组员提交记录：
+
+![](/img/model/work2.png)
+
+### 4.个人工作体会
+
+(1)15331151-组长
+
+我觉得这次项目自己最有体会和收获的有两点：一是对于整个小组的进度管理和项目安排，觉得软件项目的团队合作和管理是十分重要的，从中我也学到了很多；二是在后台开发过程中遇到问题和解决过程进步了很多，以前我没有接触过express框架和node.js相关的东西，这次自学再加上和组员的谈论，有了很大的收获。
+
+
+### 5.技术博客
+
+[15331151-sys模板常用函数功能整理](http://tomylijia.com/2018/01/25/python-sysmodule/)
+
+[15331151-express框架搭建和基本结构](http://tomylijia.com/2018/05/08/express/)
