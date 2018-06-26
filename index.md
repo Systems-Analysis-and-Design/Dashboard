@@ -8,7 +8,7 @@
 - [二、About(项目规划)](#二about项目规划)
 - [三、Investigation(项目前期调研)](#三investigation项目前期调研)
 - [四、Vision(项目愿景)](#四vision项目愿景)
-- [五、Product Backing(产品特性)](#五product-backing产品特性)
+- [五、界面效果gif展示](#五界面效果gif展示)
 - [六、Requirement specification（需求规格说明） && Design（设计）](#六requirement-specification需求规格说明--design设计)
    - [1.需求文档](#1需求文档)    
    - [2.用例图](#2用例图)     
@@ -88,11 +88,25 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 ---
 
 ## 四、Vision(项目愿景)
-我们小组的暂定目标是做一个面向小型餐馆的基于web端的带有聊天室功能的餐厅点餐系统，能为顾客点餐和商家管理带来方便，适应快节奏的轻型应用。
+我们小组的暂定目标是做一个面向小型餐馆的基于web端的餐厅点餐系统，包括顾客端、商家端以及厨师端，能为顾客点餐和商家管理带来方便，适应快节奏的轻型应用。
 
 ---
 
-## 五、Product Backing(产品特性)
+## 五、界面效果gif展示
+
+![1](/img/model/gif1.gif)
+
+![2](/img/model/gif2.gif)
+
+![3](/img/model/gif3.gif)
+
+![4](/img/model/gif4.gif)
+
+![5](/img/model/gif5.gif)
+
+![6](/img/model/gif6.gif)
+
+![7](/img/model/gif7.gif)
 
 ---
 
