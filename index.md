@@ -8,7 +8,7 @@
 - [二、About(项目规划)](#二about项目规划)
 - [三、Investigation(项目前期调研)](#三investigation项目前期调研)
 - [四、Vision(项目愿景)](#四vision项目愿景)
-- [五、界面效果gif展示](#五界面效果gif展示)
+- [五、部分界面效果gif展示](#五部分界面效果gif展示)
 - [六、Requirement specification（需求规格说明） && Design（设计）](#六requirement-specification需求规格说明--design设计)
    - [1.需求文档](#1需求文档)    
    - [2.用例图](#2用例图)     
@@ -93,7 +93,7 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 
 ---
 
-## 五、界面效果gif展示
+## 五、部分界面效果gif展示
 
 ![1](/img/model/gif1.gif)
 
