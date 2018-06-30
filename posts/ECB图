@@ -1,12 +1,12 @@
- 1、用例简介
+1、用例简介
  
- ![](/img/model/a1.png)
+![1](/img/model/a1.png)
  
- 2、类图
+2、类图
  
-  ![](/img/model/a2.png)
+![2](/img/model/a2.png)
   
- 3、映射
+3、映射
  
  - Project 
 	- bin
