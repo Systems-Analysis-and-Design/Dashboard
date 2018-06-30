@@ -21,6 +21,7 @@
    - [9.补充性规格说明](#9补充性规格说明)
    - [10.SAD](#10sad)
    - [11.SD](#11sd)
+   - [12.ECB图](#12ecb图)
 - [七、生产规范与指南](#七生产规范与指南)
    - [1.代码规范](#1代码规范)
    - [2.API设计规范](#2api设计规范)
@@ -155,6 +156,10 @@ kanban管理工具:[github-kanban任务管理](https://github.com/Systems-Analys
 #### 11.SD
 
 [点击此处查看软件设计文档](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
+
+#### 12.ECB图
+
+[点击此处查看ECB图](https://github.com/Systems-Analysis-and-Design/Dashboard/blob/master/posts/ECB%E5%9B%BE.md)
 
 ---
 
